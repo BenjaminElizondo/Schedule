@@ -20,7 +20,9 @@ public class Schedule {
         String lastName = "Elizondo";
         int year = 2020;
                 
-        System
+        System.out.println("My name is " + firstName
+                            + " " + lastName + " and I graduate in"
+                                  + year);
         
     }
     
