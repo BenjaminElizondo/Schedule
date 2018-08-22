@@ -16,6 +16,12 @@ public class Schedule {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String firstName = "Benjamin";
+        String lastName = "Elizondo";
+        int year = 2020;
+                
+        System
+        
     }
     
 }
