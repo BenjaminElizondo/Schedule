@@ -21,9 +21,32 @@ public class Schedule {
         int year = 2020;
                 
         System.out.println("My name is " + firstName
-                            + " " + lastName + " and I graduate in"
+                            + " " + lastName + " and I graduate in "
                                   + year);
         
-    }
+        String periodOne = "Honors English";
+        String periodTwo = "Honors Spanish S3";
+        String periodThree = "AP Computer Science A";
+        String periodFour = "Honors Enviromental Science";
+        String periodFive = "Honors Global Studies";
+        String periodSix = "Honors Algebra 2 & Trig";
+        String periodSeven = "Honors American History";
+        
+        String periodOneTeacher = "Cody Morrissey";
+        String periodTwoTeacher = "Nadia Khan-Roberts";
+        String periodThreeTeacher = "Matthew Larrubia";
+        String periodFourTeacher = "Christopher Connell";
+        String periodFiveTeacher = "James Dugard";
+        String periodSixTeacher = "Lissette Leonard";
+        String periodSevenTeacher = "John Cunningham"; 
     
-}
+        System.out.println("+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +"); 
+        System.out.println("| 1 | " + periodOne + "               |                 " + periodOneTeacher + " | ");
+        System.out.println("| 2 | " + periodTwo + "            |          " + periodTwoTeacher +     "    | ");
+        System.out.println("| 3 | " + periodThree + "        |        " + periodThreeTeacher +"        | ");
+        System.out.println("| 4 | " + periodFour + "  |       " + periodFourTeacher + "      | ");
+        System.out.println("| 5 | " + periodFive + "        |              " + periodFiveTeacher + "      | ");
+        System.out.println("| 6 | " + periodSix + "      |      " + periodSixTeacher + "          | ");
+        System.out.println("| 7 | " + periodSeven + "      |          " + periodSevenTeacher + "       | ");
+         System.out.println("+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +"); 
+    }       
