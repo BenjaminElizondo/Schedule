@@ -48,5 +48,5 @@ public class Schedule {
         System.out.println("| 5 | " + periodFive + "        |              " + periodFiveTeacher + "      | ");
         System.out.println("| 6 | " + periodSix + "      |      " + periodSixTeacher + "          | ");
         System.out.println("| 7 | " + periodSeven + "      |          " + periodSevenTeacher + "       | ");
-         System.out.println("+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +"); 
+        System.out.println("+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +"); 
     }       
